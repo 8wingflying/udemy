@@ -1,5 +1,6 @@
 # udemy + Packt
 
+# [ChatGPT for Cybersecurity Cookbook](https://www.packtpub.com/product/chatgpt-for-cybersecurity-cookbook/9781805124047)
 ## openAI linebot
 - [OpenAI Assistants with OpenAI Python API]()
 - [Complete OpenAI API Course (Connect to ChatGPT API & More)](https://www.udemy.com/course/complete-openai-api-course-connect-to-chatgpt-api-more/learn/lecture/40747430#overview)
